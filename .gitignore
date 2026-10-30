@@ -1,0 +1,9 @@
+.DS_Store
+.env
+*.local
+.pio/
+build/
+__pycache__/
+node_modules/
+*.bin.orig
+secrets/
